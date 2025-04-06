@@ -1,5 +1,5 @@
 {
-  "name": "node-loop",
+  "name": "node-runloop",
   "version": "0.1.1",
   "main": "index.js",
   "license": "GPL-3.0-only",
